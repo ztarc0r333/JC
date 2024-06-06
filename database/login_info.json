@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "username": "joseph canul",
+      "password": "contrasena1"
+    },
+    {
+      "username": "juan cardena",
+      "password": "contrasena2"
+    },
+    {
+      "username": "jhonatan canul",
+      "password": "contrasena3"
+    },
+    {
+      "username": "jose cardena",
+      "password": "contrasena4"
+    },
+    {
+      "username": "joshua cardena",
+      "password": "contrasena5"
+    }
+  ]
+}
